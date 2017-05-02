@@ -1,0 +1,2894 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ANTENA 1">
+    <display-name lang="pt">ANTENA 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ANTENA 2">
+    <display-name lang="pt">ANTENA 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ANTENA 3">
+    <display-name lang="pt">ANTENA 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RDP INTERNACIONAL">
+    <display-name lang="pt">RDP INTERNACIONAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MARCOENSE FM">
+    <display-name lang="pt">MARCOENSE FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RADIO MONTEMURO">
+    <display-name lang="pt">RADIO MONTEMURO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PAIVENSE FM">
+    <display-name lang="pt">PAIVENSE FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NOVE3CINCO">
+    <display-name lang="pt">NOVE3CINCO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MAIS KIZOMBA">
+    <display-name lang="pt">MAIS KIZOMBA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="WRL RADIO 7 - URBAN">
+    <display-name lang="pt">WRL RADIO 7 - URBAN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MEGA HERTZ - KIZOMBA">
+    <display-name lang="pt">MEGA HERTZ - KIZOMBA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TSF">
+    <display-name lang="pt">TSF</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RADIO RENASCENCA">
+    <display-name lang="pt">RADIO RENASCENCA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MEGA HITS">
+    <display-name lang="pt">MEGA HITS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="KISS FM ALBUFEIRA">
+    <display-name lang="pt">KISS FM ALBUFEIRA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RFM">
+    <display-name lang="pt">RFM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RFM CLUBBING">
+    <display-name lang="pt">RFM CLUBBING</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RFM OCEANO PACIFICO">
+    <display-name lang="pt">RFM OCEANO PACIFICO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="80S RFM">
+    <display-name lang="pt">80S RFM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="COMERCIAL">
+    <display-name lang="pt">COMERCIAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIM RADIO LISBOA">
+    <display-name lang="pt">SIM RADIO LISBOA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NOVA ERA">
+    <display-name lang="pt">NOVA ERA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="94 FM">
+    <display-name lang="pt">94 FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SUPER FM">
+    <display-name lang="pt">SUPER FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="HIPER FM">
+    <display-name lang="pt">HIPER FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="M80">
+    <display-name lang="pt">M80</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="VODAFONE FM">
+    <display-name lang="pt">VODAFONE FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TOP 80 FM">
+    <display-name lang="pt">TOP 80 FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TOTAL FM">
+    <display-name lang="pt">TOTAL FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ORBITAL">
+    <display-name lang="pt">ORBITAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RLCB DANCE">
+    <display-name lang="pt">RLCB DANCE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMALIA">
+    <display-name lang="pt">AMALIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Despertar Estremoz">
+    <display-name lang="pt">Despertar Estremoz</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Douro Nacional">
+    <display-name lang="pt">Douro Nacional</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="GOLO FM">
+    <display-name lang="pt">GOLO FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Radio Atlântida">
+    <display-name lang="pt">Radio Atlântida</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MyTopFm SAO MIGUEL">
+    <display-name lang="pt">MyTopFm SAO MIGUEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MyTopFm Terceira">
+    <display-name lang="pt">MyTopFm Terceira</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Canal FM">
+    <display-name lang="pt">Canal FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CIDADE FM">
+    <display-name lang="pt">CIDADE FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RDP AFRICA">
+    <display-name lang="pt">RDP AFRICA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TORRES NOVAS FM">
+    <display-name lang="pt">TORRES NOVAS FM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="REGAEE RADIO 808">
+    <display-name lang="pt">REGAEE RADIO 808</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RADIO TOP 40">
+    <display-name lang="pt">RADIO TOP 40</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RUC">
+    <display-name lang="pt">RUC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CLUBE LAMEGO">
+    <display-name lang="pt">CLUBE LAMEGO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="OXIGENIO">
+    <display-name lang="pt">OXIGENIO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ANTENA MINHO">
+    <display-name lang="pt">ANTENA MINHO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MARGINAL">
+    <display-name lang="pt">MARGINAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="ANTENA 1">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="ANTENA 2">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="ANTENA 3">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="RDP INTERNACIONAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="MARCOENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="RADIO MONTEMURO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="PAIVENSE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="NOVE3CINCO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="MAIS KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="WRL RADIO 7 - URBAN">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="MEGA HERTZ - KIZOMBA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="TSF">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="RADIO RENASCENCA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="MEGA HITS">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="KISS FM ALBUFEIRA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="RFM CLUBBING">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="RFM OCEANO PACIFICO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="80S RFM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="COMERCIAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="SIM RADIO LISBOA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="NOVA ERA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="94 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="SUPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="HIPER FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="M80">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="VODAFONE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="TOP 80 FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="TOTAL FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="ORBITAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="RLCB DANCE">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="AMALIA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="Despertar Estremoz">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="Douro Nacional">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="GOLO FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="Radio Atlântida">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="MyTopFm SAO MIGUEL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="MyTopFm Terceira">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="Canal FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="CIDADE FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="RDP AFRICA">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="TORRES NOVAS FM">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="REGAEE RADIO 808">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="RADIO TOP 40">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="RUC">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="CLUBE LAMEGO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="OXIGENIO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="ANTENA MINHO">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207000000 +0000" stop="20161207080000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161207080000 +0000" stop="20161207160000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208080000 +0000" stop="20161208160000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161208160000 +0000" stop="20161209000000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161209160000 +0000" stop="20161210000000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161210000000 +0000" stop="20161210080000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211000000 +0000" stop="20161211080000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161211080000 +0000" stop="20161211160000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212080000 +0000" stop="20161212160000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161212160000 +0000" stop="20161213000000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20161213160000 +0000" stop="20161214000000 +0000" channel="MARGINAL">
+    <title lang="pt">Chegou o Ultra HD 4K</title>
+    <desc lang="pt">Sem descrição</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+</tv>

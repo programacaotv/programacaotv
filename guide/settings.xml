@@ -2,6 +2,7 @@
     <setting id="addon.match" value="0" />
     <setting id="addons.ini.enabled" value="false" />
     <setting id="addons.ini.file" value="" />
+    <setting id="addons.ini.subscriptions" value="false" />
     <setting id="addons.ini.type" value="0" />
     <setting id="alternative.playback" value="false" />
     <setting id="authentication" value="false" />
@@ -9,21 +10,20 @@
     <setting id="categories.ini.file" value="" />
     <setting id="categories.ini.type" value="0" />
     <setting id="categories.ini.url" value="" />
-    <setting id="channel.filter.sort" value="0" />
     <setting id="enable.osd" value="true" />
-    <setting id="focus.color" value="text" />
-    <setting id="ignore.stream" value="true" />
+    <setting id="focus.color" value="ff7fff00[COLOR ff7fff00]chartreuse[/COLOR]" />
+    <setting id="ignore.stream" value="false" />
     <setting id="ivue-categories.ini.enabled" value="true" />
-    <setting id="logos" value="http://projectxwizard.site88.net/logos/" />
+    <setting id="logos" value="https://raw.githubusercontent.com/programacaotv/programacaotv/master/logos/" />
     <setting id="logos.enabled" value="true" />
     <setting id="logos.folder" value="" />
     <setting id="logos.source" value="0" />
-    <setting id="mainurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
-    <setting id="nofocus.color" value="text" />
+    <setting id="mainurl" value="https://raw.githubusercontent.com/programacaotv/programacaotv/master/guide/" />
+    <setting id="nofocus.color" value="ff00ffff[COLOR ff00ffff]cyan[/COLOR]" />
     <setting id="password" value="" />
     <setting id="skin" value="TVsupertuga Red" />
     <setting id="user" value="tvsupertuga" />
-    <setting id="userurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
+    <setting id="userurl" value="https://raw.githubusercontent.com/programacaotv/programacaotv/master/guide/" />
     <setting id="xmltv.interval" value="2" />
     <setting id="xmltv.type" value="0" />
     <setting id="xmltv.type_select" value="PORTUGUESE" />
